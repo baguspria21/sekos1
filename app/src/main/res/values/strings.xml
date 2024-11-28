@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">sekos</string>
+
+    <string-array name="list_items">
+        <item>Kos Benteng Sakti</item>
+        <item>Kos enam Putra</item>
+        <item>Kos</item>
+        <item>kos</item>
+        <item>kos</item>
+    </string-array>
+    <string-array name="price_list">
+        <item>1.000.000</item>
+        <item>2.000.000</item>
+        <item>300.000</item>
+        <item>200.000</item>
+        <item>750.000</item>
+    </string-array>
+
+    <string-array name="description_list">
+        <item>Kos Benteng Sakti: Kos yang nyaman dan strategis dekat pusat kota.</item>
+        <item>Kos Enam Putra: Fasilitas lengkap dengan suasana asri dan tenang.</item>
+        <item>Kos Sederhana: Cocok untuk mahasiswa, harga terjangkau.</item>
+        <item>Kos Mewah: Dilengkapi AC dan WiFi, cocok untuk profesional muda.</item>
+        <item>Kos Ekonomis: Kos ramah kantong, dengan fasilitas standar.</item>
+    </string-array>
+    <string name="next_icon_description">Next</string>
+    <string name="item_image_description">Item Image</string>
+
+    <array name="image_items">
+            <item>@drawable/kos2</item>
+            <item>@drawable/kos3</item>
+            <item>@drawable/kos4</item>
+            <item>@drawable/kos6</item>
+            <item>@drawable/kos5</item>
+        </array>
+</resources>

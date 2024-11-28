@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#FFFFFF</color> <!-- Warna putih latar belakang -->
+    <color name="circleBackgroundColor">#ECEFF1</color> <!-- Warna abu-abu muda -->
+    <color name="primaryTextColor">#212121</color> <!-- Warna teks utama -->
+    <color name="secondaryTextColor">#757575</color> <!-- Warna teks sekunder -->
+</resources>
